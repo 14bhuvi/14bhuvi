@@ -59,13 +59,21 @@
 - 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 20%  💡 StackOverflow + 5%  🔍 Google + 35%  🤖 ChatGPT + 20%
 
 
-      <img MY TROPHIES="🔥href="https://github-profile-trophy.vercel.app/?username=14bhuvi&theme=buddhism"></img> 
+      <img My Medium="🔥href="https://medium.com/@sudeki22"></img> 
 
   <h3>💻 GitHub Profile Stats</h3>
-  <!-- https://github.com/Hunterdii/github-readme-stats -->
+  <!-- https://github.com/14bhuvi/github-readme-stats -->
   <a href="https://github.com//github-readme-stats"><img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=14bhuvi&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/14bhuvi/github-readme-stats"><img alt="top langs" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=14bhuvi&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px"/></a><a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism"></a> 
+  <a href="https://github.com/14bhuvi/github-readme-stats"><img alt="top langs" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=14bhuvi&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px"/></a>
+### Trophies
 
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=14bhuvi&theme=buddhism"><img src="https://github-profile-trophy.vercel.app/?username=14bhuvi&theme=buddhism"></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://s.yimg.com/zb/imgv1/2d78707b-f9b6-3d63-b8c0-9f76b742ac2a/t_500x300" alt="VScode" width="40" height="40"/> </a> <a href="
+jupyter.org" target="_blank" rel="noreferrer"> <img src="https://blog.ryanwcummings.com/img/misc/jupyter_logo.png" alt="Jupyter" width="40" height="40"/> </a> <a href="onecompiler.com" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/J2AsAmkERwVdShhU8Bbn2_xN5ou5QVmlo4zyl4JoZd5WM23n3tCUcynJXjwy-06rmW4" alt="One Compiler" width="40" height="40"/> </a></p>
 
 
  
@@ -77,7 +85,7 @@
 
 </div>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bhuvi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=14bhuvi&theme=github-dark" /></a>
+<a href="https://github.com/14bhuvi/github-readme-activity-graph"><img alt="Bhuvi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=14bhuvi&theme=github-dark" /></a>
 
 
 

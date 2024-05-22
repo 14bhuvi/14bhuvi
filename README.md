@@ -120,55 +120,23 @@ A little more about me...</h2></summary>
     
 ```javascriptclass ReadMe:
     def __init__(self):
-        self.name = 'Patel HetKumar SandipBhai'
-        self.education = {'programming': 'Full Stack Software Development', 'art': ['Singing', 'Art and Design', 'Gaming']}
-        self.employment = {'developer': ['company', 'city'], 'designer': ['RR Cables', 'CodeSoft', 'Oasis InfoByte',]}
+        self.name = 'Bhuvi Vishwakarma'
+        self.education = {'programming': 'python projects', 'art': ['dancing', 'Art and Design', 'Gaming']}
         self.current_year = 2024
     def doing(self, now):
-        if now < self.current_year:
-            return f"I was a design with {self.employment['developer'][0]} in {self.employment['developer'][1]}"
-        elif now == self.current_year:
-            return f"I am currently learning {self.education['programming']} at Parul Institute"
-        elif now > self.current_year:
-            return f"I am eager to collaborate with {self.employment['developer'][0]} on Android and web development"
-        else:
-            return "### Hi there 👋"
-    def collaborate(self, role, organization, location):
-        self.employment[role] = [organization, location]
-    pronouns = "He | Him"
-    code = ["Javascript🚀", "C🅒", "Python🐍", "Java☕", "Php🐘", "C#(.Net🎯)"]
-    askMeAbout = ["web dev🌐", "Foody🍔", "app dev📱", "Singing🎤", "Drawing✏️"]
-    technologies = {'mobileApp': ["Android App📱", "Flutter🚀"], 'frontEnd': {'js': ["React⚛️"], 'css': ["Tailwind🌪️", "bootstrap🅱️"]}, 'backEnd': {'php': ["php🐘", "c#🎯"], 'python': ["flask🍶"]}, 'devOps': ["Google Cloud☁️", "Docker🐳", "AWS🌩️"], 'databases': ["mongoDB🍃", "MySql🐬", "Oracle🛢️"], 'misc': ["Firebase🔥", "sqlite📦"]}
-    architecture = ["Serverless Architecture", "Progressive web applications", "Single page applications"]
-    currentProject = "I am developing Android Application Named: FestivityFlippers"
-    funFact = "There are two ways to write error-free programs; only the third one works"
+       if now == self.current_year:
+            return f"I am currently 2nd yearengg stud, learning {Information and technology} at Banasthali Vidyapeeth"
+    pronouns = "She | her"
+    code and compiler = ["VScode🚀", "DEV-C++🅒", "Pycharm🐍", "Jupyter☕", "one compiler🐘", "MSdos🎯"]
+    askMeAbout = ["programmer🌐", "Foody🍔", "creative fingers", "Drawing✏️"]
+    technologies = {'languages':["python","turtel","C","Scratch"], 'databases': ["mariadb🍃", "MySql🐬", "excel🛢️"],}
+    architecture = ["Serverless Architecture", "Autocadd", "Single page applications"]
+    currentProject = "python projects under prodigy Infotech"
+    funFact = "We are humans :)"
 
 me = ReadMe()
 ```
 </details>
 
-
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<!--<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<h2>🍴🐍 Snake eating my Contributions 🐍🍴</h2>--!>
-
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<!--<img src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" width="100%">
---!>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> 😊</em>
-
-<!--START_SECTION:waka-->
-<!--**I'm An Early & An Late Owl As Per The Kick I Get From...​🌓​🐤🦉​🌇​🌃​** 
-```text
-🌞 Morning                     95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime                     78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening                    112 commits     █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night                       36 commits     ██████░░░░░░░░░░░░░░░░░░░   18.36%
-
-```--!>
-⚛
 
 

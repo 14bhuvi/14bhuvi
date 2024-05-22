@@ -77,7 +77,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://s.yimg.com/zb/imgv1/2d78707b-f9b6-3d63-b8c0-9f76b742ac2a/t_500x300" alt="VScode" width="40" height="40"/> </a> <a href="
-jupyter.org" target="_blank" rel="noreferrer"> <img src="https://blog.ryanwcummings.com/img/misc/jupyter_logo.png" alt="Jupyter" width="40" height="40"/> </a> <a href="onecompiler.com" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/J2AsAmkERwVdShhU8Bbn2_xN5ou5QVmlo4zyl4JoZd5WM23n3tCUcynJXjwy-06rmW4" alt="One Compiler" width="40" height="40"/> </a></p>
+jupyter.org" target="_blank" rel="noreferrer"> <img src="https://blog.ryanwcummings.com/img/misc/jupyter_logo.png" alt="Jupyter" width="40" height="40"/> </a> <a href="onecompiler.com" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/J2AsAmkERwVdShhU8Bbn2_xN5ou5QVmlo4zyl4JoZd5WM23n3tCUcynJXjwy-06rmW4" alt="One Compiler" width="40" height="40"/> </a><a href="https://onlinenotepad.org/notepad#google_vignette" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png" alt="HTML" width="40" height="40"/> </a><a href="https://scratch.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.frVHVczPjnUxQASmggqMiAHaHa&pid=Api&P=0&h=220" alt="Scratch" width="40" height="40"/> </a></p>
 
 
  
@@ -129,7 +129,7 @@ A little more about me...</h2></summary>
     pronouns = "She | her"
     code and compiler = ["VScode🚀", "DEV-C++🅒", "Pycharm🐍", "Jupyter☕", "one compiler🐘", "MSdos🎯"]
     askMeAbout = ["programmer🌐", "Foody🍔", "creative fingers", "Drawing✏️"]
-    technologies = {'languages':["python","turtel","C","Scratch"], 'databases': ["mariadb🍃", "MySql🐬", "excel🛢️"],}
+    technologies = {'languages':["html","python","turtel","C","Scratch"], 'databases': ["mariadb🍃", "MySql🐬", "excel🛢️"],}
     architecture = ["Serverless Architecture", "Autocadd", "Single page applications"]
     currentProject = "python projects under prodigy Infotech"
     funFact = "We are humans :)"

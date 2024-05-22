@@ -93,8 +93,8 @@ jupyter.org" target="_blank" rel="noreferrer"> <img src="https://blog.ryanwcummi
 
 </details>
 <details> 
-  <summary><h2>📺 Above My YouTube Please Give A Subscribe</h2></summary>
-   <h3> 😎 <em> I Will Make Sure To Do Entertain With My Content </em> 🤪 </h3>
+  <summary><h2>📺 Above My YouTube Please Give A Subscribe</h2><br><h2>📺 Read about me more on you left (my profile)</h2></summary>
+   <h1> 😎 <em> I Will Make Sure To Do Entertain With My Content </em> 🤪 </h1>
  
 <!--Quotes!--> 
 <div align="center">

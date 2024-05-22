@@ -125,7 +125,7 @@ A little more about me...</h2></summary>
         self.current_year = 2024
     def doing(self, now):
        if now == self.current_year:
-            return f"I am currently 2nd yearengg stud, learning {Information and technology} at Banasthali Vidyapeeth"
+            return f"I am currently 2nd year engg stud, learning {Information and technology} at Banasthali Vidyapeeth"
     pronouns = "She | her"
     code and compiler = ["VScode🚀", "DEV-C++🅒", "Pycharm🐍", "Jupyter☕", "one compiler🐘", "MSdos🎯"]
     askMeAbout = ["programmer🌐", "Foody🍔", "creative fingers", "Drawing✏️"]

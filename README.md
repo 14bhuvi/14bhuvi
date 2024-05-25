@@ -1,4 +1,4 @@
-
+<p background-image: url('https://mytownkl.com.my/cms/storage/event_files//Chinese%20New%20Year%202023_Game%20(GIF)_1672906728.gif');>
 <h2><p align="center">HOWDY!, ​नमस्ते (Namaste)🙏🏻, I'm BHUVI!
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjYwemFteHFrNmg1Zno1YWZsNmRrZzNkbG9xaHBzZXJnMTV5enB0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WuZFeCtAKwjkY/giphy.gif" width="50"></p> 
   <p align="center">
@@ -40,7 +40,7 @@
     </td>
   </tr>
 </table>
-
+<img align="right" alt="Coding" width="400"src="https://media1.tenor.com/m/lUFliafCu_MAAAAC/hello.gif">
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - CyberSecurity 🔐
@@ -137,6 +137,6 @@ A little more about me...</h2></summary>
 me = ReadMe()
 ```
 </details>
-
+</p>
 
 

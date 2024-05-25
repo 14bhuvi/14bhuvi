@@ -1,5 +1,5 @@
 <p background-image: url('https://mytownkl.com.my/cms/storage/event_files//Chinese%20New%20Year%202023_Game%20(GIF)_1672906728.gif');>
-<h2><p align="center">HOWDY!, ​नमस्ते (Namaste)🙏🏻, I'm BHUVI!
+<h2><p align="center">HOWDY DEVELOPERS!, ​नमस्ते (Namaste)🙏🏻, I'm BHUVI!
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjYwemFteHFrNmg1Zno1YWZsNmRrZzNkbG9xaHBzZXJnMTV5enB0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WuZFeCtAKwjkY/giphy.gif" width="50"></p> 
   <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">

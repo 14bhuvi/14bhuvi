@@ -46,9 +46,10 @@
 - CyberSecurity 🔐
 - Data Structure ⚛️
 - GUI ☁️
+- CSS 💻
 
 ### 💻 I'm working on
-- Python Projects 💼
+- php Projects 💼
 - Internships 🚀
 
 ### 💭 Ask me about
@@ -56,7 +57,7 @@
 - and anything... ❓
 
 ### ⚡ Fun fact 
-- 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 20%  💡 StackOverflow + 5%  🔍 Google + 35%  🤖 ChatGPT + 20%
+- 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 20%  💡 StackOverflow + 5%  🔍 Google + 35%  🤖 AI + 20%
 
 
       <img My Medium="🔥href="https://medium.com/@sudeki22"></img> 

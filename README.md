@@ -49,12 +49,16 @@
 - CSS 💻
 
 ### 💻 I'm working on
-- php Projects 💼
-- Internships 🚀
+- php Projects 🚀
+- mini projects 🔥
 
 ### 💭 Ask me about
 - Designing 🎨
 - and anything... ❓
+
+### 🙋‍♂️ Looking for
+- Internships 
+- Project works💻
 
 ### ⚡ Fun fact 
 - 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 20%  💡 StackOverflow + 5%  🔍 Google + 35%  🤖 AI + 20%

@@ -43,10 +43,11 @@
 <img align="right" alt="Coding" width="400"src="https://media1.tenor.com/m/lUFliafCu_MAAAAC/hello.gif">
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- CyberSecurity 🔐
+- Cyber Security 🔐
 - Data Structure ⚛️
 - GUI ☁️
 - CSS 💻
+- German 💭
 
 ### 💻 I'm working on
 - php Projects 🚀

@@ -1,5 +1,5 @@
-<p background-image: url('https://mytownkl.com.my/cms/storage/event_files//Chinese%20New%20Year%202023_Game%20(GIF)_1672906728.gif');>
-<h2><p align="center">HOWDY DEVELOPERS!, ​नमस्ते (Namaste)🙏🏻, I'm BHUVI!
+![image](https://github.com/user-attachments/assets/7672717d-c4c4-426d-9eb5-6a93cbe148a4)<p background-image: url('https://mytownkl.com.my/cms/storage/event_files//Chinese%20New%20Year%202023_Game%20(GIF)_1672906728.gif');>
+<h2><p align="center">HOWDY DEVELOPERS!, ​नमस्ते (Namaste)🙏🏻, Hello, Hallo... Myself BHUVI :D !
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjYwemFteHFrNmg1Zno1YWZsNmRrZzNkbG9xaHBzZXJnMTV5enB0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WuZFeCtAKwjkY/giphy.gif" width="50"></p> 
   <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
@@ -44,10 +44,11 @@
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Cyber Security 🔐
-- Data Structure ⚛️
-- GUI ☁️
-- CSS 💻
-- German 💭
+- Design Analysis and Algorithm ⚛️
+- GUI using Python ☁️
+- Drone Technology 🚀
+- C++ OOP 💻
+- German Language💭
 
 ### 💻 I'm working on
 - php Projects 🚀
@@ -62,7 +63,7 @@
 - Project works💻
 
 ### ⚡ Fun fact 
-- 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 20%  💡 StackOverflow + 5%  🔍 Google + 35%  🤖 AI + 20%
+- 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 20%  💡 StackOverflow + 5%  🔍 Google + 35%  🤖 AI + 20% YouTube
 
 
       <img My Medium="🔥href="https://medium.com/@sudeki22"></img> 
@@ -83,7 +84,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode" width="40" height="40"/> </a> <a href="
-jupyter.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> </a> <a href="onecompiler.com" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/J2AsAmkERwVdShhU8Bbn2_xN5ou5QVmlo4zyl4JoZd5WM23n3tCUcynJXjwy-06rmW4" alt="One Compiler" width="40" height="40"/> </a><a href="https://onlinenotepad.org/notepad#google_vignette" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png" alt="HTML" width="40" height="40"/> </a><a href="https://scratch.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.frVHVczPjnUxQASmggqMiAHaHa&pid=Api&P=0&h=220" alt="Scratch" width="40" height="40"/> </a><a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/></a></p>
+jupyter.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> </a> <a href="onecompiler.com" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/J2AsAmkERwVdShhU8Bbn2_xN5ou5QVmlo4zyl4JoZd5WM23n3tCUcynJXjwy-06rmW4" alt="One Compiler" width="40" height="40"/> </a><a href="https://onlinenotepad.org/notepad#google_vignette" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png" alt="HTML" width="40" height="40"/> </a><a href="https://scratch.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.frVHVczPjnUxQASmggqMiAHaHa&pid=Api&P=0&h=220" alt="Scratch" width="40" height="40"/> </a><a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/></a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/></a></p>
 
 
  
@@ -127,17 +128,17 @@ A little more about me...</h2></summary>
 ```javascriptclass ReadMe:
     def __init__(self):
         self.name = 'Bhuvi Vishwakarma'
-        self.education = {'programming': 'python projects', 'art': ['dancing', 'Art and Design', 'Gaming']}
-        self.current_year = 2024
+        self.education = {'programming':['python projects','CSS'], 'art': ['dancing', 'Art and Design', 'Gaming']}
+        self.current_year = 2025
     def doing(self, now):
        if now == self.current_year:
             return f"I am currently 2nd year engg stud, learning {Information and technology} at Banasthali Vidyapeeth"
     pronouns = "She | her"
     code and compiler = ["VScode🚀", "DEV-C++🅒", "Pycharm🐍", "Jupyter☕", "one compiler🐘", "MSdos🎯"]
-    askMeAbout = ["programmer🌐", "Foody🍔", "creative fingers", "Drawing✏️"]
-    technologies = {'languages':["html","python","turtel","C","Scratch"], 'databases': ["mariadb🍃", "MySql🐬", "excel🛢️"],}
-    architecture = ["Serverless Architecture", "Autocadd", "Single page applications"]
-    currentProject = "python projects under prodigy Infotech"
+    askMeAbout = ["programmer🌐", "Foody🍔", "creative fingers", "Drawing✏️","Curious","Learner"]
+    technologies = {'languages':["html","C++","CSS","python","turtel","C","Scratch"], 'databases': ["mariadb🍃", "MySql🐬", "excel🛢️"],}
+    architecture = ["Serverless Architecture", "Autocadd", "Single page applications","Drone technology"]
+    currentProject = "ACE up yourself (Student Scheduler)"
     funFact = "We are humans :)"
 
 me = ReadMe()

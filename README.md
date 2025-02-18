@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7672717d-c4c4-426d-9eb5-6a93cbe148a4)<p background-image: url('https://mytownkl.com.my/cms/storage/event_files//Chinese%20New%20Year%202023_Game%20(GIF)_1672906728.gif');>
+
 <h2><p align="center">HOWDY DEVELOPERS!, ​नमस्ते (Namaste)🙏🏻, Hello, Hallo... Myself BHUVI :D !
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjYwemFteHFrNmg1Zno1YWZsNmRrZzNkbG9xaHBzZXJnMTV5enB0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WuZFeCtAKwjkY/giphy.gif" width="50"></p> 
   <p align="center">
